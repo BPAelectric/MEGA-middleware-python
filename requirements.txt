@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-mega.py
+pycryptodome
+mega.py>=1.0.8
 httpx
 python-multipart
 tenacity>=8.0.0
