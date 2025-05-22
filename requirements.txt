@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+mega.py
+httpx
+python-multipart
