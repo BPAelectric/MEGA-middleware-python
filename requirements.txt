@@ -3,3 +3,4 @@ uvicorn
 mega.py
 httpx
 python-multipart
+tenacity>=8.0.0
