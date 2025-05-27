@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pycryptodome
+mega.py>=1.0.8
+httpx
+python-multipart
+tenacity>=5.1.5,<6.0.0
